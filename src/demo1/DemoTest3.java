@@ -8,6 +8,9 @@ public class DemoTest3 {
 		double salary = 22.22;
 		
 		System.out.println(grade + salary);
+
+		System.out.println("Salary ");
+	
 	}
 
 }
